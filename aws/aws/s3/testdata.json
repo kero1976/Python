@@ -1,0 +1,62 @@
+{'ResponseMetadata': {'RequestId': 'D16GX7XE5PVHKZYQ', 'HostId': 'hsHzBhd6vorV4/qIV8nvxjTzu8W8paJcvIaUrmoaaDbdY/gN6xYHF6SR7VSAU4ZRDJM3mWs7+I0=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'hsHzBhd6vorV4/qIV8nvxjTzu8W8paJcvIaUrmoaaDbdY/gN6xYHF6SR7VSAU4ZRDJM3mWs7+I0=', 'x-amz-request-id': 'D16GX7XE5PVHKZYQ', 'date': 'Sat,
+            18 Nov 2023 08: 53: 23 GMT', 'x-amz-bucket-region': 'ap-northeast-1', 'content-type': 'application/xml', 'transfer-encoding': 'chunked', 'server': 'AmazonS3'
+        }, 'RetryAttempts': 1
+    }, 'IsTruncated': False, 'Contents': [
+        {'Key': 'DebugPass.zip', 'LastModified': datetime.datetime(2023,
+            2,
+            12,
+            9,
+            44,
+            51, tzinfo=tzutc()), 'ETag': '"73535f7273e061ff7e9b61b49dc32bd8"', 'Size': 2042996, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'abc', 'LastModified': datetime.datetime(2023,
+            4,
+            21,
+            12,
+            4,
+            56, tzinfo=tzutc()), 'ETag': '"b86fc6b051f63d73de262d4c34e3a0a9"', 'Size': 2, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'index.html', 'LastModified': datetime.datetime(2022,
+            1,
+            4,
+            23,
+            18,
+            22, tzinfo=tzutc()), 'ETag': '"d1364c9f4250019684ba7f0200f1ade1"', 'Size': 109, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'log4j.xml', 'LastModified': datetime.datetime(2023,
+            4,
+            21,
+            12,
+            4,
+            58, tzinfo=tzutc()), 'ETag': '"69c6342ec0515085678d0dde927ac5d2"', 'Size': 336, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'sample/', 'LastModified': datetime.datetime(2022,
+            7,
+            21,
+            11,
+            29,
+            35, tzinfo=tzutc()), 'ETag': '"d41d8cd98f00b204e9800998ecf8427e"', 'Size': 0, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'sample/test1.txt', 'LastModified': datetime.datetime(2022,
+            7,
+            26,
+            12,
+            28,
+            38, tzinfo=tzutc()), 'ETag': '"86deb27a32903da70a7b2348fcf36bc3"', 'Size': 15, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'sample/test2.txt', 'LastModified': datetime.datetime(2022,
+            7,
+            26,
+            12,
+            28,
+            38, tzinfo=tzutc()), 'ETag': '"8e01cec796a583b1a23e6a8ea40b6b8b"', 'Size': 31, 'StorageClass': 'STANDARD'
+        },
+        {'Key': 'sample/test3.txt', 'LastModified': datetime.datetime(2022,
+            7,
+            26,
+            12,
+            28,
+            38, tzinfo=tzutc()), 'ETag': '"1f025c92f4211fd0d903039032847449"', 'Size': 21, 'StorageClass': 'STANDARD'
+        }
+    ], 'Name': 'u10.jp', 'Prefix': '', 'MaxKeys': 1000, 'EncodingType': 'url', 'KeyCount': 8
+}

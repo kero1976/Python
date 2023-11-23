@@ -1,17 +1,19 @@
 [tool.poetry]
-name = "webtool"
+name = "aws"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["kero1976 <kero1976@outlook.jp>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-requests = "^2.31.0"
+boto3 = "^1.29.2"
 
 
 [tool.poetry.group.dev.dependencies]
+moto = "^4.2.9"
 pytest = "^7.4.3"
+pytest-cov = "^4.1.0"
 
 [build-system]
 requires = ["poetry-core"]
